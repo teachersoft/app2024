@@ -1,0 +1,80 @@
+{
+  "0938373": {
+    "APELLIDO": "\"Pincsy\"",
+    "CEDULA": "\"0938373\"",
+    "EDAD": "\"22\"",
+    "NOMBRE": "\"Marisol\"",
+    "TELEFONO": "\"09737373\""
+  },
+  "08487777": {
+    "APELLIDO": "\"Gozales\"",
+    "CEDULA": "\"08487777\"",
+    "EDAD": "\"28\"",
+    "NOMBRE": "\"Calos\"",
+    "TELEFONO": "\"08373333\""
+  },
+  "08492833": {
+    "APELLIDO": "\"Lopes\"",
+    "CEDULA": "\"08492833\"",
+    "EDAD": "\"34\"",
+    "NOMBRE": "\"Jorge\"",
+    "TELEFONO": "\"083373833\""
+  },
+  "09273737": {
+    "APELLIDO": "\"Macias\"",
+    "CEDULA": "\"09273737\"",
+    "EDAD": "\"25\"",
+    "NOMBRE": "\"Thomas\"",
+    "TELEFONO": "\"0972373737\""
+  },
+  "09383733": {
+    "APELLIDO": "\"mendez\"",
+    "CEDULA": "\"09383733\"",
+    "EDAD": "\"24\"",
+    "NOMBRE": "\"karen\"",
+    "TELEFONO": "\"09373737\""
+  },
+  "092727227": {
+    "APELLIDO": "\"Zolorsano\"",
+    "CEDULA": "\"092727227\"",
+    "EDAD": "\"36\"",
+    "NOMBRE": "\"Alfreo\"",
+    "TELEFONO": "\"09722626\""
+  },
+  "092737373": {
+    "APELLIDO": "\"Pereira\"",
+    "CEDULA": "\"092737373\"",
+    "EDAD": "\"24\"",
+    "NOMBRE": "\"David\"",
+    "TELEFONO": "\"09263633\""
+  },
+  "08482282828": {
+    "APELLIDO": "\"Yiguin\"",
+    "CEDULA": "\"08482282828\"",
+    "EDAD": "\"33\"",
+    "NOMBRE": "\"Gordy\"",
+    "TELEFONO": "\"088227272\""
+  },
+  "09388373787": {
+    "APELLIDO": "\"Mariño\"",
+    "CEDULA": "\"09388373787\"",
+    "EDAD": "\"20\"",
+    "NOMBRE": "\"Javier\"",
+    "TELEFONO": "\"092737777\""
+  },
+  "REGISTRO DE USUARIO": {
+    "0951899558": {
+      "ACTUACION": "\"1\"",
+      "APELLIDO": "\"ASDASD\"",
+      "CEDULA:": "\"0951899558\"",
+      "EDAD": "\"SDSDA\"",
+      "EXAMEN": "\"3\"",
+      "LECCION": "\"3\"",
+      "NOMBRE": "\"DASDAS\"",
+      "RESULTADO": "\"APROBADO\"",
+      "TALLER": "\"2\"",
+      "TELEFONO": "\"ASDASDASD\"",
+      "TOTAL": "\"9\""
+    }
+  }
+}
